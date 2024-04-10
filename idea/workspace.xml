@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7ffff55-02d5-4f54-91fe-5b03b91b936b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="20FwJZDbe45SGScXu0L03uC8WN8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\static\images" />
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\templates" />
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\static\img\avatars" />
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\static" />
+      <recent name="D:\Project\Python Project\NotesSharingProject\notes\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\static\js" />
+      <recent name="D:\Project\Python Project\NewNotesSharing\notes\static\css" />
+      <recent name="D:\Project\Python Project\NotesSharingProject\notes\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7ffff55-02d5-4f54-91fe-5b03b91b936b" name="Changes" comment="" />
+      <created>1635653574727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635653574727</updated>
+    </task>
+    <servers />
+  </component>
+</project>
